@@ -1,0 +1,6 @@
+youtube.com
+yimg.com
+youtube-ui.l.google.com
+youtubei.googleapis.com
+ytimg.l.google.com
+ytstatic.l.google.com
